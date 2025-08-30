@@ -1,0 +1,785 @@
+{
+    "interventionData": {
+        "self-care": {
+            "Bathing": {
+                "name": "Bathing/Showering",
+                "phrases": [
+                    "Analysis of movement during bathing including reach patterns and balance control",
+                    "Analysis of sequencing during bathing activities with task breakdown",
+                    "Cueing hierarchy training progressing from environmental setup through verbal prompts",
+                    "Compensatory technique training including seated bathing and adaptive equipment",
+                    "Energy conservation training with pacing and breathing techniques",
+                    "Safety training for wet surface navigation and transfer techniques",
+                    "Assistive device instruction for grab bars, shower chairs, and long-handled tools",
+                    "Planning skills development for pre-bathing preparation and problem-solving",
+                    "Functional reaching training for back washing and foot care with stabilization",
+                    "Trained in proper body mechanics for reaching and washing"
+                ],
+                "context": "bathing",
+                "relatedImpairments": [
+                    "Static standing balance deficits",
+                    "Dynamic balance deficits",
+                    "Limited shoulder ROM",
+                    "Poor motor planning with ADLs",
+                    "Impaired sequencing of tasks",
+                    "Decreased grip strength",
+                    "Limited endurance with self-care tasks",
+                    "Impaired safety awareness with tasks",
+                    "Poor trunk control",
+                    "Decreased proprioception",
+                    "Impaired visual field",
+                    "Cognitive deficits affecting safety judgment"
+                ]
+            },
+            "Dressing": {
+                "name": "Dressing",
+                "phrases": [
+                    "Analyzed movement patterns for upper and lower body dressing, focusing on reach and coordination",
+                    "Assessed cognitive sequencing for garment selection, orientation, and donning/doffing",
+                    "Practiced problem-solving for clothing management when encountering difficulties (e.g., inside-out clothes)",
+                    "Trained in energy conservation techniques, including seated dressing and pacing",
+                    "Trained motor planning for threading arms into sleeves and managing overhead garments",
+                    "Practiced one-handed techniques for putting on and removing shirts/jackets",
+                    "Developed bilateral coordination for managing sweaters and front-opening garments",
+                    "Improved fine motor control for managing buttons, zippers, and snaps on shirts",
+                    "Trained seated techniques for donning/doffing pants, socks, and shoes safely",
+                    "Practiced standing balance and weight-shifting while pulling up pants",
+                    "Instructed in use of adaptive equipment (reacher, sock aid, long-handled shoe horn) for lower body dressing",
+                    "Improved dexterity and coordination for managing shoelaces, buckles, and shoe fasteners",
+                    "Instructed on adaptive strategies for managing clothing with hemiplegia/one-sided weakness",
+                    "Trained in the use of button hooks and zipper pulls to increase independence with fasteners",
+                    "Practiced techniques for clothing organization in closets/drawers to improve accessibility",
+                    "Developed safety awareness to maintain balance and prevent falls during dressing tasks",
+                    "Practiced dressing at edge of bed to improve dynamic sitting balance",
+                    "Trained in modifying the environment for safer dressing (e.g., using a stable chair, removing rugs)",
+                    "Trained in techniques to thread affected upper extremity into sleeve",
+                    "Practiced ankle and hip balance strategies while donning/doffing pants",
+                    "Provided hand-over-hand assistance for shoe tying",
+                    "Practiced bilateral coordination for managing lower body clothing"
+                ],
+                "context": "dressing",
+                "relatedImpairments": [
+                    "Dynamic balance deficits",
+                    "Limited shoulder ROM",
+                    "Limited fine motor control",
+                    "Decreased bilateral coordination",
+                    "Poor motor planning with ADLs",
+                    "Limited hip ROM",
+                    "Poor seated balance",
+                    "Impaired stereognosis",
+                    "Decreased body scheme awareness",
+                    "Limited finger dexterity"
+                ]
+            },
+            "Grooming": {
+                "name": "Hygiene/Grooming",
+                "phrases": [
+                    "Analysis of movement during grooming including fine motor control and sink-based activities",
+                    "Analysis of sequencing during grooming with oral care and hair management",
+                    "Cueing hierarchy training with environmental setup and tool use demonstration",
+                    "Compensatory technique training including seated grooming and adaptive grips",
+                    "Energy conservation training with work simplification and rest break planning",
+                    "Safety training for counter support and reaching techniques",
+                    "Assistive device instruction for adapted handles and electric devices",
+                    "Hygiene technique instruction for proper toothbrushing and facial cleansing",
+                    "Environmental modification training for sink access and lighting enhancement",
+                    "Processing skills training for task simplification and attention focusing"
+                ],
+                "context": "grooming",
+                "relatedImpairments": [
+                    "Limited fine motor control",
+                    "Decreased grip strength",
+                    "Static standing balance deficits",
+                    "Poor motor planning with ADLs",
+                    "Impaired sequencing of tasks",
+                    "Decreased bilateral coordination",
+                    "Impaired visual acuity",
+                    "Tremors affecting precision",
+                    "Poor standing endurance"
+                ]
+            },
+            "Toileting": {
+                "name": "Toileting",
+                "phrases": [
+                    "Analysis of movement during toileting including transfer biomechanics and clothing management",
+                    "Analysis of sequencing during toileting with hygiene management and handwashing",
+                    "Cueing hierarchy training with environmental organization and transfer assistance",
+                    "Compensatory technique training including elevated seats and rail utilization",
+                    "Energy conservation training with pacing and breathing integration",
+                    "Safety training for bathroom navigation and grab bar use",
+                    "Assistive device instruction for toilet rails, elevated seats, and hygiene aids",
+                    "Transfer training with stand-pivot techniques and grab bar utilization",
+                    "Clothing management training with seated garment adjustment",
+                    "Hygiene technique training with toilet paper management and positioning"
+                ],
+                "context": "toileting",
+                "relatedImpairments": [
+                    "Dynamic balance deficits",
+                    "Poor weight shifting during transfers",
+                    "Limited hip ROM",
+                    "Poor motor planning with ADLs",
+                    "Impaired safety awareness with tasks",
+                    "Decreased core strength",
+                    "Limited functional mobility",
+                    "Impaired motor planning for clothing management",
+                    "Poor safety awareness in bathroom environment"
+                ]
+            },
+
+            "Feeding": {
+                "name": "Feeding/Eating",
+                "phrases": [
+                    "Analysis of movement during feeding including hand-to-mouth coordination and utensil grasp",
+                    "Analysis of sequencing during feeding with meal preparation and consumption",
+                    "Cueing hierarchy training with meal setup and utensil use demonstration",
+                    "Compensatory technique training including built-up utensils and plate guards",
+                    "Energy conservation training with meal planning and optimal positioning",
+                    "Safety training for swallowing precautions and food texture management",
+                    "Assistive device instruction for adaptive utensils and rocker knives",
+                    "Meal setup training with non-slip mats and strategic food arrangement",
+                    "Swallow safety training with upright positioning and controlled pacing",
+                    "Adaptive utensil training with built-up handles and weighted implements",
+                    "Trained in utensil manipulation requiring graded pressure and control"
+                ],
+                "context": "feeding",
+                "relatedImpairments": [
+                    "Limited fine motor control",
+                    "Decreased grip strength",
+                    "Decreased bilateral coordination",
+                    "Poor seated balance",
+                    "Impaired safety awareness with tasks",
+                    "Oral motor deficits",
+                    "Impaired postural control",
+                    "Visual-perceptual deficits",
+                    "Limited UE ROM"
+                ]
+            },
+            "Medication Management": {
+                "name": "Medication Management",
+                "phrases": [
+                    "Analysis of movement during medication management including fine motor control and container opening",
+                    "Analysis of sequencing during medication routine with identification and organization",
+                    "Decision making training for schedule planning and side effect monitoring",
+                    "Cueing hierarchy training with visual aids and reminder systems",
+                    "Compensatory technique training including pill organizers and bottle adaptations",
+                    "Safety training for medication identification and emergency protocols",
+                    "Assistive device instruction for pill organizers and adapted bottle openers"
+                ],
+                "context": "iadls",
+                "relatedImpairments": [
+                    "Limited fine motor control",
+                    "Decreased grip strength",
+                    "Poor motor planning with ADLs",
+                    "Impaired sequencing of tasks",
+                    "Impaired safety awareness with tasks",
+                    "Working memory deficits",
+                    "Impaired executive functioning",
+                    "Low vision",
+                    "Decreased health literacy"
+                ]
+            },
+            "Home Management": {
+                "name": "Instrumental Activities of Daily Living (IADLs)",
+                "phrases": [
+                    "Practiced planning and sequencing for a multi-step home management task (e.g., simple meal prep, laundry)",
+                    "Trained in problem-solving strategies to address unexpected challenges during IADLs",
+                    "Developed energy conservation and work simplification techniques for household chores",
+                    "Improved safety awareness and judgment for kitchen and home safety",
+                    "Trained in the use of adaptive equipment to increase independence in home management",
+                    "Practiced dynamic balance and coordination during a simulated home management activity",
+                    "Addressed money management skills for budgeting and paying bills",
+                    "Trained in organizational strategies for maintaining a safe and orderly home environment"
+                ],
+                "context": "iadls",
+                "relatedImpairments": [
+                    "Limited fine motor control",
+                    "Decreased grip strength",
+                    "Poor motor planning with ADLs",
+                    "Impaired sequencing of tasks",
+                    "Impaired safety awareness with tasks",
+                    "Impaired executive functioning",
+                    "Decreased activity tolerance",
+                    "Limited functional mobility",
+                    "Poor problem-solving skills"
+                ]
+            }
+        },
+        "therapeutic": {
+            "Functional Mobility & Balance": {
+                "name": "Functional Mobility & Balance",
+                "subInterventions": {
+                    "Dynamic Balance Training": {
+                        "name": "Dynamic Balance Training",
+                        "phrases": [
+                            "Forward reaching beyond arm's length while seated with controlled return",
+                            "Lateral weight shifts with controlled return to center and target placement",
+                            "Clock face reaching pattern to various positions with progressive distance",
+                            "Object retrieval sequence from varying heights with stabilization",
+                            "Supported standing reach activities to different levels with safety focus",
+                            "Multi-directional reaching outside base of support with recovery training",
+                            "Dynamic seated activities on therapeutic ball with postural challenges",
+                            "Perturbation training with controlled challenges and recovery strategies"
+                        ],
+                        "context": "balance_activities",
+                        "relatedImpairments": [
+                            "Dynamic balance deficits",
+                            "Poor seated balance",
+                            "Poor weight shifting during transfers",
+                            "Limited protective reactions",
+                            "Poor trunk control during activities",
+                            "Fear of falling",
+                            "Decreased core stability",
+                            "Impaired somatosensory input",
+                            "Vestibular processing deficits"
+                        ]
+                    },
+                    "Static Balance Training": {
+                        "name": "Static Balance Training",
+                        "phrases": [
+                            "Unsupported sitting with timed duration and postural maintenance",
+                            "Midline position holding with upper extremity tasks and feedback",
+                            "Varied surface sitting with postural maintenance and stability challenges",
+                            "Narrow base standing with support nearby and progressive challenges",
+                            "Tandem stance activities with upper body movement and timing",
+                            "Standing weight shifts with controlled return to center and accuracy",
+                            "Edge of surface sitting with controlled position and safety awareness"
+                        ],
+                        "context": "balance_activities",
+                        "relatedImpairments": [
+                            "Static standing balance deficits",
+                            "Poor seated balance",
+                            "Poor postural control in sitting",
+                            "Poor postural control in standing",
+                            "Decreased core stability affecting function",
+                            "Asymmetrical weight bearing",
+                            "Postural malalignment",
+                            "Decreased proprioceptive feedback",
+                            "Limited ankle strategies"
+                        ]
+                    },
+                    "Transfer Training": {
+                        "name": "Transfer Training",
+                        "phrases": [
+                            "Sit-to-stand practice with proper mechanics and weight distribution",
+                            "Stand-pivot transfer with weight shifting practice and hand placement",
+                            "Sliding board techniques with proper positioning and safety protocols",
+                            "Surface-to-surface transfer at equal heights with body mechanics",
+                            "Car transfer simulation with proper sequencing and safety techniques",
+                            "Toilet transfer techniques with grab bar use and positioning strategies",
+                            "Practiced eccentric control for safe descent into chair",
+                            "Trained in hand placement technique for pushing up from surface",
+                            "Facilitated anterior weight shift prior to standing",
+                            "Provided manual resistance at knees to prevent valgus collapse",
+                            "Practiced foot positioning strategies to improve base of support"
+                        ],
+                        "context": "balance_activities",
+                        "relatedImpairments": [
+                            "Poor weight shifting during transfers",
+                            "Dynamic balance deficits",
+                            "Limited functional mobility",
+                            "Decreased LE strength affecting mobility",
+                            "Impaired safety awareness with tasks",
+                            "Impaired motor planning for transfers",
+                            "Lower body weakness",
+                            "Poor trunk control",
+                            "Fear of falling during transitions"
+                        ]
+                    }
+                }
+            },
+
+            "Strength & Endurance": {
+                "name": "Strength & Endurance",
+                "subInterventions": {
+                    "Functional Strengthening": {
+                        "name": "Functional Strengthening",
+                        "phrases": [
+                            "Resistive band exercises mimicking functional movements with progressive resistance",
+                            "Graded weight activities with functional patterns and proper body mechanics",
+                            "Weight bearing countertop activities with bilateral coordination",
+                            "Progressive resistance reaching to varied heights with stability training",
+                            "Therapeutic ball exercises for core strengthening with postural control",
+                            "Functional movement patterns against gravity with endurance focus",
+                            "Multi-joint movement sequences with added weight and coordination"
+                        ],
+                        "context": "strengthening",
+                        "relatedImpairments": [
+                            "Muscle weakness",
+                            "Decreased UE strength affecting function",
+                            "Decreased LE strength affecting mobility",
+                            "Poor muscular endurance",
+                            "Decreased core stability affecting function",
+                            "Generalized deconditioning",
+                            "Pain limiting force production",
+                            "Impaired motor unit recruitment",
+                            "Cardiopulmonary limitations"
+                        ]
+                    },
+                    "Lifting & Carrying": {
+                        "name": "Lifting & Carrying",
+                        "phrases": [
+                            "Graded weight carrying with proper body mechanics and safety awareness",
+                            "Object transfer activities between surfaces with controlled movement",
+                            "Graduated lifting series from various heights with postural control",
+                            "Weighted bag activities with handles and bilateral coordination",
+                            "Repetitive lift and place activities at different heights with endurance focus",
+                            "Multi-level object transfer activities with balance challenges"
+                        ],
+                        "context": "strengthening",
+                        "relatedImpairments": [
+                            "Muscle weakness",
+                            "Poor body mechanics",
+                            "Poor trunk control during activities",
+                            "Limited endurance with self-care tasks",
+                            "Dynamic balance deficits",
+                            "Decreased core strength",
+                            "Impaired postural control during dynamic tasks",
+                            "Limited grip strength",
+                            "Poor body mechanics awareness"
+                        ]
+                    },
+                    "Fine Motor Strengthening": {
+                        "name": "Fine Motor Strengthening",
+                        "phrases": [
+                            "Graduated resistance putty with pinch patterns and finger isolation",
+                            "Putty rolling activities with varied pressure and manipulation patterns",
+                            "Hidden object retrieval from resistance putty with dexterity challenges",
+                            "Grip strengthening with full hand compression and sustained holds",
+                            "Putty opposition patterns with all fingers and coordination sequences"
+                        ],
+                        "context": "strengthening",
+                        "relatedImpairments": [
+                            "Limited fine motor control",
+                            "Decreased grip strength",
+                            "Impaired motor control of UEs",
+                            "Intrinsic hand muscle weakness",
+                            "Decreased pincer and tripod grasp strength",
+                            "Pain affecting grip",
+                            "Peripheral neuropathy"
+                        ]
+                    }
+                }
+            },
+            "Coordination & Motor Control": {
+                "name": "Coordination & Motor Control",
+                "subInterventions": {
+                    "Bilateral Integration": {
+                        "name": "Bilateral Integration",
+                        "phrases": [
+                            "Bimanual container opening and closing activities with coordination timing",
+                            "Two-handed folding tasks with various materials and complexity levels",
+                            "Stabilize with one hand while manipulating with other hand coordination",
+                            "Symmetrical pushing activities against resistance with bilateral strength",
+                            "Bilateral scooping and pouring activities with precision and control",
+                            "Midline crossing sorting activities with containers and spatial awareness",
+                            "Simultaneous bilateral movements with objects and timing components"
+                        ],
+                        "context": "coordination",
+                        "relatedImpairments": [
+                            "Decreased bilateral coordination",
+                            "Decreased bilateral integration",
+                            "Impaired motor control of UEs",
+                            "Poor motor planning with ADLs",
+                            "Decreased midline orientation",
+                            "Apraxia",
+                            "Contralateral neglect",
+                            "Impaired interhemispheric communication",
+                            "Deficits in timing and sequencing of movements"
+                        ]
+                    },
+                    "Fine Motor Coordination": {
+                        "name": "Fine Motor Coordination",
+                        "phrases": [
+                            "Finger isolation exercises with object manipulation and precision control",
+                            "Pincer grasp activities with varied size objects and accuracy demands",
+                            "In-hand manipulation tasks with small objects and rotation patterns",
+                            "Precision placement tasks with timed components and accuracy feedback",
+                            "Controlled grasp and release activities with varied objects and pressures",
+                            "Fine motor tool manipulation activities requiring dexterity and control"
+                        ],
+                        "context": "coordination",
+                        "relatedImpairments": [
+                            "Limited fine motor control",
+                            "Poor coordination during functional tasks",
+                            "Impaired motor control of UEs",
+                            "Decreased proprioception in UEs",
+                            "Ataxia",
+                            "Essential tremor",
+                            "Impaired stereognosis",
+                            "Decreased dexterity"
+                        ]
+                    },
+                    "Visual Motor Integration": {
+                        "name": "Visual Motor Integration",
+                        "phrases": [
+                            "Visual scanning patterns with target identification and tracking",
+                            "Figure-ground discrimination activities with complex backgrounds",
+                            "Visual tracking exercises with moving objects and prediction",
+                            "Pattern recognition activities with sequences and memory components",
+                            "Eye-hand coordination with precision tasks and timing demands",
+                            "Visual discrimination sorting with categories and decision making",
+                            "Utilized mirror feedback for self-monitoring of posture and movement",
+                            "Implemented written checklists to improve task sequencing and completion"
+                        ],
+                        "context": "coordination",
+                        "relatedImpairments": [
+                            "Visual deficits (implied)",
+                            "Poor spatial awareness",
+                            "Poor motor planning with ADLs",
+                            "Impaired sequencing of tasks",
+                            "Limited fine motor control",
+                            "Oculomotor dysfunction",
+                            "Visual-spatial deficits",
+                            "Figure-ground discrimination difficulty",
+                            "Poor eye-hand coordination"
+                        ]
+                    }
+                }
+            },
+            "Cognitive & Perceptual Skills": {
+                "name": "Cognitive & Perceptual Skills",
+                "subInterventions": {
+                    "Cueing Hierarchy Training": {
+                        "name": "Cueing Hierarchy Training",
+                        "phrases": [
+                            "Progressive verbal cues from general to specific with fading assistance",
+                            "Picture sequence cards showing step-by-step task completion with visual support",
+                            "Light touch directional cues to guide movement patterns with tactile feedback",
+                            "Written task checklists with checkboxes for completion and organization",
+                            "Environmental object placement as task sequence prompts with spatial cues",
+                            "Demonstration with gradually fading physical assistance and independence training"
+                        ],
+                        "context": "coordination",
+                        "relatedImpairments": [
+                            "Poor motor planning with ADLs",
+                            "Impaired sequencing of tasks",
+                            "Cognitive deficits (implied)",
+                            "Decreased problem-solving skills",
+                            "Impaired initiation",
+                            "Working memory deficits",
+                            "Attention deficits",
+                            "Executive dysfunction"
+                        ]
+                    },
+                    "Body Awareness Training": {
+                        "name": "Body Awareness Training",
+                        "phrases": [
+                            "Body part identification activities with feedback and spatial awareness",
+                            "Midline orientation exercises with visual cues and postural training",
+                            "Mirror feedback activities for body awareness and movement quality",
+                            "Joint position sensing with eyes closed and proprioceptive training",
+                            "Bilateral symmetry awareness activities with coordination challenges",
+                            "Body boundary definition activities with feedback and spatial concepts"
+                        ],
+                        "context": "coordination",
+                        "relatedImpairments": [
+                            "Limited body awareness",
+                            "Poor spatial awareness",
+                            "Decreased proprioception in UEs",
+                            "Decreased midline orientation",
+                            "Cognitive deficits (implied)",
+                            "Somatosensory deficits",
+                            "Left-right discrimination issues",
+                            "Body schema disorder",
+                            "Unilateral neglect"
+                        ]
+                    },
+                    "Proprioceptive Training": {
+                        "name": "Proprioceptive Training",
+                        "phrases": [
+                            "Joint compression activities in weight bearing with resistance feedback",
+                            "Resistive pushing exercises against stable surfaces with force awareness",
+                            "Weighted feedback activities during movement with proprioceptive input",
+                            "Joint position replication without visual cues and accuracy training",
+                            "Deep pressure techniques to enhance awareness with sensory integration",
+                            "Weight bearing through joints in various positions with stability training"
+                        ],
+                        "context": "coordination",
+                        "relatedImpairments": [
+                            "Decreased proprioception in UEs",
+                            "Decreased proprioception in LEs",
+                            "Limited body awareness",
+                            "Poor coordination during functional tasks",
+                            "Impaired motor control of UEs",
+                            "Sensory ataxia",
+                            "Impaired kinesthesia",
+                            "Difficulty with force modulation",
+                            "Poor joint position sense"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+     "patientGoals": [
+        "improve independence with lower body dressing",
+        "increase safety and independence during toileting",
+        "improve ability to complete bathing with minimal assistance",
+        "increase standing tolerance for meal preparation",
+        "improve fine motor control for medication management",
+        "enhance dynamic balance to reduce fall risk during functional mobility",
+        "increase functional upper extremity strength for home management tasks"
+    ],
+    "assistanceLevels": [
+        {
+            "id": "visual",
+            "name": "Visual Demonstration/Modeling",
+            "levels": [
+                { "id": "vis_min", "text": "minimal visual cues (1-2 demonstrations)", "description": "Patient required 1-2 visual demonstrations to initiate or complete task components", "percentage": "10-25% visual support" },
+                { "id": "vis_mod", "text": "moderate visual cues (3-5 demonstrations)", "description": "Patient required 3-5 visual demonstrations throughout task for proper sequencing and technique", "percentage": "25-50% visual support" },
+                { "id": "vis_max", "text": "maximal visual cues (continuous modeling)", "description": "Patient required continuous visual modeling and demonstration throughout entire task", "percentage": "75-100% visual support" }
+            ]
+        },
+        {
+            "id": "verbal",
+            "name": "Verbal Instruction/Cueing",
+            "levels": [
+                { "id": "ver_min", "text": "minimal verbal cues (1-3 prompts)", "description": "Patient required 1-3 verbal prompts to initiate or redirect task performance", "percentage": "10-25% verbal support" },
+                { "id": "ver_mod", "text": "moderate verbal cues (4-8 prompts)", "description": "Patient required 4-8 verbal cues throughout task for sequencing and safety reminders", "percentage": "25-50% verbal support" },
+                { "id": "ver_max", "text": "maximal verbal cues (continuous coaching)", "description": "Patient required continuous verbal coaching and instruction throughout entire task", "percentage": "75-100% verbal support" }
+            ]
+        },
+        {
+            "id": "tactile",
+            "name": "Tactile Cues/Facilitation",
+            "levels": [
+                { "id": "tac_min", "text": "minimal tactile cues (1-3 touch prompts)", "description": "Patient required 1-3 light touch prompts for movement initiation and directional guidance", "percentage": "10-25% tactile guidance" },
+                { "id": "tac_mod", "text": "moderate tactile cues (intermittent guidance)", "description": "Patient required intermittent hands-on guidance for 25-50% of movement components", "percentage": "25-50% tactile guidance" },
+                { "id": "tac_max", "text": "maximal tactile facilitation (continuous contact)", "description": "Patient required continuous tactile facilitation and hands-on guidance throughout task", "percentage": "75-100% tactile guidance" }
+            ]
+        },
+        {
+            "id": "physical",
+            "name": "Physical Assistance",
+            "levels": [
+                { "id": "phy_min", "text": "minimal physical assist (patient 75-90%)", "description": "Patient performs 75-90% of physical effort. Therapist provides 10-25% assistance for stability and safety", "percentage": "10-25% physical assistance" },
+                { "id": "phy_mod", "text": "moderate physical assist (patient 50-74%)", "description": "Patient performs 50-74% of physical effort. Therapist provides 26-50% assistance for task completion", "percentage": "26-50% physical assistance" },
+                { "id": "phy_max", "text": "maximal physical assist (patient 25-49%)", "description": "Patient performs 25-49% of physical effort. Therapist provides 51-75% assistance for task completion", "percentage": "51-75% physical assistance" },
+                { "id": "phy_total", "text": "total physical assist (patient <25%)", "description": "Patient performs less than 25% of physical effort. Therapist provides more than 75% assistance", "percentage": "75-100% physical assistance" }
+            ]
+        },
+        {
+            "id": "supervision",
+            "name": "Supervision Levels",
+            "levels": [
+                { "id": "supervision", "text": "distant supervision (100% patient performance)", "description": "Patient performed independently with therapist monitoring from distance for safety", "percentage": "0% assistance, 100% monitoring" },
+                { "id": "sba", "text": "standby assist (95-100% patient performance)", "description": "Patient performed with 95-100% independence, therapist positioned nearby for potential assistance", "percentage": "0-5% potential assistance" },
+                { "id": "cga", "text": "contact guard assist (90-95% patient performance)", "description": "Patient performed with 90-95% independence, therapist maintained light physical contact for safety", "percentage": "5-10% safety assistance" }
+            ]
+        },
+        {
+            "id": "independence",
+            "name": "Independence Levels",
+            "levels": [
+                { "id": "ind_complete", "text": "complete independence (100% patient performance)", "description": "Patient performed task with 100% independence, no assistance, cues, or modifications required", "percentage": "0% assistance required" },
+                { "id": "ind_device", "text": "modified independence with device (100% patient performance)", "description": "Patient performed with 100% independence using adaptive equipment or environmental modifications", "percentage": "0% therapist assistance" },
+                { "id": "ind_setup", "text": "independence with setup (95% patient performance)", "description": "Patient performed with 95% independence after therapist provided initial setup and organization", "percentage": "5% setup assistance" }
+            ]
+        },
+        {
+            "id": "environmental",
+            "name": "Environmental Modifications",
+            "levels": [
+                { "id": "env_min", "text": "minimal environmental setup (1-2 modifications)", "description": "Patient required 1-2 environmental modifications for optimal task performance", "percentage": "10-25% environmental support" },
+                { "id": "env_mod", "text": "moderate environmental modifications (3-5 changes)", "description": "Patient required 3-5 environmental modifications including positioning and adaptive setup", "percentage": "25-50% environmental support" },
+                { "id": "env_max", "text": "maximal environmental modifications (comprehensive setup)", "description": "Patient required comprehensive environmental modifications and adaptive equipment setup", "percentage": "75-100% environmental support" }
+            ]
+        }
+    ],
+    "assistanceJustifications": {
+        "verbal": {
+            "name": "Verbal Cue Justification",
+            "options": [
+                "to initiate the next step in the sequence",
+                "to correct errors in performance",
+                "to recall safety precautions (e.g., locking brakes)",
+                "to encourage appropriate pacing of the activity",
+                "to improve body mechanics during the task",
+                "to facilitate proper weight distribution",
+                "to maintain an appropriate level of effort (e.g., force, power)",
+                "to redirect patient's attention back to the task",
+                "to sequence steps in a multi-step activity",
+                "for proper use of adaptive equipment"
+            ]
+        },
+        "tactile": {
+            "name": "Tactile Cue Justification",
+            "options": [
+                "to guide a limb through a functional movement pattern",
+                "to facilitate proper muscle activation (e.g., quads, glutes, core)",
+                "to provide proprioceptive input for body awareness",
+                "to promote proper postural alignment (e.g., thoracic extension)",
+                "to facilitate weight shifting",
+                "to inhibit unwanted or synergistic movement patterns",
+                "to increase pressure modulation during a task",
+                "to address unilateral neglect by drawing attention to the affected side",
+                "to facilitate recovery from a loss of balance"
+            ]
+        },
+        "physical": {
+            "name": "Physical Assistance Justification",
+            "options": [
+                "to prevent a loss of balance during weight shifting or reaching",
+                "to ensure safety during transfers or mobility",
+                "to compensate for weakness against gravity",
+                "to manage a limb or equipment during the activity",
+                "due to limited activity tolerance or fatigue",
+                "to guide the hips or trunk over the base of support",
+                "to control for knee buckling or instability",
+                "to assist with clothing or device management",
+                "to complete the final phase of a movement (e.g., hip extension in standing)"
+            ]
+        },
+        "visual": {
+            "name": "Visual Cue Justification",
+            "options": [
+                "to demonstrate the expected movement pattern",
+                "to provide a clear target for reaching or foot placement",
+                "to improve motor planning and sequencing (e.g., using picture cards)",
+                "to provide feedback for postural alignment (e.g., using a mirror)",
+                "to increase step length or improve base of support",
+                "to help with correct orientation of an object or clothing",
+                "to draw attention to one side due to neglect",
+                "to provide a spatial guide for hand or foot placement"
+            ]
+        }
+    },
+    "clinicalReasoning": {
+        "contextual": {
+            "bathing": ["to improve safety and independence in bathing activities", "to develop compensatory strategies for bathroom safety and wet surface navigation", "to enhance upper extremity function for bathing tasks and reach patterns"],
+            "dressing": ["to improve functional independence in dressing activities and clothing management", "to develop adaptive strategies for clothing management and fastener manipulation", "to enhance bilateral coordination for dressing tasks and garment handling"],
+            "grooming": ["to improve fine motor skills for grooming activities and tool manipulation", "to enhance standing tolerance for hygiene tasks and sink-based activities", "to develop energy conservation techniques for daily grooming routine"],
+            "toileting": ["to improve safety and independence with toileting and transfers", "to develop safe techniques for clothing management during toileting", "to enhance dynamic balance and mobility for bathroom safety"],
+            "iadls": ["to improve safety and independence in complex daily tasks", "to enhance executive functioning for multi-step IADL sequencing", "to develop compensatory strategies for medication and home management"],
+            "feeding": ["to improve hand-to-mouth coordination for self-feeding and utensil management", "to enhance sitting balance for safe feeding and postural stability", "to develop adaptive strategies for independent nutrition and meal management"],
+            "balance_activities": ["to improve postural control and fall prevention strategies", "to enhance dynamic balance for functional mobility and safety", "to develop proprioceptive awareness for safety and movement quality"],
+            "strengthening": ["to improve functional strength for daily activities and task performance", "to enhance endurance for sustained task performance and activity tolerance", "to develop anti-gravity strength for upright activities and postural control"],
+            "coordination": ["to improve bilateral coordination for functional tasks and daily activities", "to enhance fine motor control for precision activities and manipulation", "to develop motor planning skills for complex movements and task sequences"]
+        },
+        "general": ["to progress toward established rehabilitation goals and discharge planning", "to maximize functional independence and quality of life outcomes", "to prevent further functional decline and promote optimal recovery potential"]
+    },
+    "difficultyReasons": {
+        "cognitive": {
+            "name": "Cognitive/Perceptual Factors",
+            "options": [
+                "due to decreased attention to task and difficulty maintaining focus throughout activity", 
+                "due to impaired sequencing abilities affecting task organization and completion", 
+                "due to delayed processing speed impacting response time and task efficiency",
+                "due to poor problem-solving when encountering unexpected challenges",
+                "due to memory deficits impacting recall of instructions or sequences",
+                "due to impaired safety awareness and poor judgment",
+                "due to visual-perceptual deficits (e.g., figure-ground, spatial relations)"
+            ]
+        },
+        "motor": {
+            "name": "Motor & Physical Factors",
+            "options": [
+                "due to decreased strength limiting functional movement patterns and task performance",
+                "due to impaired coordination affecting precision and quality of movement during activities",
+                "due to limited range of motion restricting functional reach patterns and positioning",
+                "due to impaired balance (static or dynamic) affecting stability",
+                "due to limited endurance requiring frequent rest breaks",
+                "due to the presence of pain impacting effort and participation",
+                "due to abnormal muscle tone interfering with smooth, controlled movement"
+            ]
+        },
+        "sensory": {
+            "name": "Sensory Processing Factors",
+            "options": [
+                "due to tactile hypersensitivity affecting object manipulation or tolerance to touch",
+                "due to poor proprioceptive feedback impacting body awareness and force modulation",
+                "due to vestibular sensitivity causing dizziness or imbalance with head movements"
+            ]
+        },
+        "psychosocial": {
+            "name": "Psychosocial/Behavioral Factors",
+            "options": [
+                "due to low motivation or expressing reluctance to participate",
+                "due to anxiety or fear of falling which impacted confidence and performance",
+                "due to increased frustration with the perceived difficulty of the task",
+                "due to pain behaviors limiting active participation and engagement"
+            ]
+        },
+        "environmental": {
+            "name": "Environmental Factors",
+            "options": [
+                "due to distracting environment affecting concentration and task focus",
+                "due to unfamiliar setting impacting confidence and performance quality",
+                "due to suboptimal lighting or high levels of visual clutter",
+                "due to lack of appropriate equipment or suboptimal setup"
+            ]
+        }
+    },
+    "responseOptions": {
+        "positive": {
+            "name": "Positive Patient Responses",
+            "options": ["Patient demonstrated good understanding of techniques with successful task completion and carryover", "Patient showed improved performance throughout the session with increased confidence and motor learning", "Patient exhibited good motor learning with carryover from previous sessions and skill retention"]
+        },
+        "challenged": {
+            "name": "Performance Challenges",
+            "options": ["Patient required multiple attempts to achieve task completion successfully with varied performance", "Patient demonstrated fatigue affecting performance in latter portion of session with decreased quality", "Patient showed difficulty with motor planning requiring additional cueing and demonstration"]
+        },
+        "mixed": {
+            "name": "Variable Performance",
+            "options": ["Patient showed good performance with familiar tasks, requiring more support with novel activities", "Patient demonstrated improved performance with structured environment and clear sequential instructions"]
+        }
+    },
+    "outcomeOptions": {
+        "improvement": {
+            "name": "Functional Improvements",
+            "options": ["Patient improved from 3/5 attempts to 4/5 successful task completions with measurable progress", "Patient increased endurance from 10 minutes to 15 minutes of sustained activity without rest", "Patient progressed from moderate assistance to minimal assistance level with increased independence"]
+        },
+        "maintenance": {
+            "name": "Skill Maintenance",
+            "options": ["Patient maintained previous session gains with consistent performance level and skill retention", "Patient sustained improvement in targeted functional skills throughout session duration"]
+        },
+        "goals": {
+            "name": "Goal Achievement",
+            "options": ["Patient met short-term goal for improved bilateral coordination in functional tasks", "Patient achieved targeted assistance level for transfer activities with safety and independence"]
+        }
+    },
+    "sessionPlans": {
+        "continue": {
+            "name": "Continue Plan",
+            "options": ["Continue with current plan of care to address established goals and functional outcomes", "Continue to grade activities as tolerated to improve performance quality and independence"]
+        },
+        "modify": {
+            "name": "Modify Plan",
+            "options": ["Modify treatment plan to incorporate new compensatory strategies based on performance analysis", "Update goals to reflect current functional status and progress toward independence"]
+        },
+        "add": {
+            "name": "Add to Plan",
+            "options": ["Add focus on caregiver training for safe transfers and functional mobility assistance", "Incorporate use of adaptive equipment to increase independence and safety during activities"]
+        }
+    },
+    "sessionParameters": {
+        "reps": {
+            "name": "Repetitions",
+            "options": ["5x", "8x", "10x", "12x", "15x", "20x"]
+        },
+        "trials": {
+            "name": "Trials",
+            "options": ["1 trial", "2 trials", "3 trials", "4 trials", "5 trials"]
+        },
+        "weights": {
+            "name": "Weight/Resistance",
+            "options": ["1 lb", "2 lbs", "3 lbs", "5 lbs", "10 lbs", "Light band", "Medium band", "Heavy band"]
+        },
+        "duration": {
+            "name": "Duration",
+            "options": ["1 min", "2 min", "5 min", "10 min", "15 min"]
+        },
+        "surface": {
+            "name": "Surface",
+            "options": ["Seated EOB", "Seated in w/c", "Standing on firm surface", "Standing on foam pad"]
+        },
+        "environment": {
+            "name": "Environment",
+            "options": ["Quiet room", "Busy gym", "Bedside", "ADL suite"]
+        },
+        "adaptiveEquipment": {
+            "name": "Adaptive Equipment",
+            "options": ["Reacher", "Sock aid", "Long-handled shoe horn", "Button hook", "Built-up utensils", "Shower chair", "Grab bars"]
+        }
+    }
+}
