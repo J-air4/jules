@@ -501,7 +501,7 @@ if (state.showAssistanceModal) {
             notes[noteType] = appendToNarrative(notes[noteType], state.currentNarrative);
             const CPT = state.selectedCPTCode;
             const savedNote = notes[noteType];
-            updateState({ ...initialState, selectedCPTCode: CPT }, {addToHistory: false});
+            updateState({ ...initialState, selectedCPTCode: CPT, sessionTime: 0 }, {addToHistory: false});
             notes[noteType] = savedNote;
             sessionTime = 0; // Reset timer
             startTimer(); // Restart timer
